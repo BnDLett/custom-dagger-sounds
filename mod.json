@@ -1,0 +1,8 @@
+{
+  "name": "Lorem Ipsum",
+  "author": "BnDLett",
+  "main": "progressed.world.Main",
+  "description": "Lorem ipsum",
+  "minGameVersion": 136,
+  "version": 1.0
+}
