@@ -1,8 +1,9 @@
 {
-  "name": "Lorem Ipsum",
+  "name": "sam-but-dagger",
+  "displayName": "Sam but dagger",
   "author": "BnDLett",
   "main": "progressed.world.Main",
-  "description": "Lorem ipsum",
+  "description": "A mod that adds custom hit-sounds to daggers.",
   "minGameVersion": 136,
   "version": 1.0
 }
